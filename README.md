@@ -3,7 +3,7 @@
   mi primer repositorio
 I live with my mom and my brothers
 i like :music, :netflix, :cats
-
+I watch many series
 i study programming
 
 I go to the gym
