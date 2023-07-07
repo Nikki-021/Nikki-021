@@ -1,8 +1,14 @@
 # hola-mundo
 
   mi primer repositorio
-
+I live with my mom and my brothers
 i like :music, :netflix, :cats
+
+i study programming
+
+I go to the gym
+I like reading
+
 <!---
 Nikki-021/Nikki-021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
