@@ -5,7 +5,7 @@
 
 Hola, soy Nicol, estudiante de segundo año de la **Tecnicatura Universitaria en Programación** en la ***UTN - Facultad Regional San Rafael*** ubicada en **San Rafael-Mendoza-Argentina**. Tengo mucha dedicación por el desarrollo de software y siempre busco nuevos conocimientos. Tengo experiencia trabajando con metodologías ágiles como *Scrum* para la gestión de proyectos.
 
-<img src="https://github.com/Nikki-021/readme/blob/main/download.jpg?raw=true" alt="Logo" width="600" height="300">
+<img src="https://github.com/Nikki-021/readme/blob/main/download.jpg?raw=true" alt="Logo" width="800" height="300">
 
 
 ## Habilidades
